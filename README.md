@@ -9,6 +9,8 @@ Steps:
 4. Leemmatize the text and fit into a TF-IDF model
 5. Create the World Cloud using the TF-IDF Scores.
 
+TODO: enable user input, option to download image. 
+
 
 output: 
 
